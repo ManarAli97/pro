@@ -1,0 +1,25 @@
+[{
+        "image": "assets/ProductImages/img1.jpg",
+        "productName": "Sony",
+        "productType": "Mobile",
+        "price": "$300"
+    },
+    {
+        "image": "assets/ProductImages/img2.jpg",
+        "productName": "Samsung Note 10",
+        "productType": "Mobile",
+        "price": "$600"
+    },
+    {
+        "image": "assets/ProductImages/img3.jpg",
+        "productName": "Samsung Note 10",
+        "productType": "Mobile",
+        "price": "$400"
+    },
+    {
+        "image": "assets/ProductImages/img4.jpg",
+        "productName": "Iphone",
+        "productType": "Mobile",
+        "price": "$500"
+    }
+]
